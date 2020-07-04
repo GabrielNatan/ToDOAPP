@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>ToDO-lista</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	
+	<link rel="stylesheet" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600&display=swap" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>	
+	
+	<main>
+		<div class="container">
+			<div class="row">
+				<div class="d-flex flex-column col-sm-6 mb-3">
+					<span id="date" class="bold"></span>
+					<small></small>
+				</div>
+				<div class="col-sm-6">
+					<ul class="d-flex menu">
+						<li class="pl-1 mr-4 active"><a href="">Incomplete Task</a></li>
+						<li><a href="">Completed task</a></li>
+					</ul>
+				</div>
+				
+			</div>
+			<div class="row">
+				<form  class="form col-sm-8 d-flex justify-content-between row mb-4 ">
+					<input type="text" class="form-control col-sm-8" placeholder="Your Tesk...">
+					<button type="submit" class="btn col-sm-3">Add Task</button>
+				</form>
+			</div>
+			<div class="row relative">
+				<ul class=" task col-12 show">
+					<hr>
+					
+
+				</ul>
+
+				<ul class=" task-2 col-12">
+					<hr>
+				</ul>
+			</div>
+		</div>
+	</main>
+
+	<footer>
+		<div class="container ">
+			<p>Based on <a target="_blank" href="https://dribbble.com/shots/6570568-Todo-List-App">Todo List App</a></p>
+		</div>
+	</footer>
+
+
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/taskController.js"></script>
+	<script src="js/dateController.js"></script>
+	<script src="js/script.js"></script>
+</body>
+</html>
