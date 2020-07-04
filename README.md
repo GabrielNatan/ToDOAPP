@@ -2,4 +2,5 @@
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
