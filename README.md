@@ -6,17 +6,15 @@
 
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
-preview
+Preview
 -------
 <div align="center" >
 <img  src="https://media.giphy.com/media/KbAufjmNmIzYNQVxDF/giphy.gif">
 </div>
-- aa [#see-on-gitio]
-
 
 
 See on git.io
@@ -33,6 +31,14 @@ Tecnologias
 - JavaScript
 
 
+How To Use
+-----------
+
+
+```
+or
+https://gabrielnatan.github.io/ToDOApp/
+```
 
 Based on Todo List App
 -----------
