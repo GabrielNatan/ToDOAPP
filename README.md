@@ -1,7 +1,7 @@
 <h1 align="center">
 <img  src="img/ToDO_APP.png">
   <br>
-  AppTpDO
+  AppToDO
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 Preview
 -------
-<div align="center" >
+<div >
 <img  src="https://media.giphy.com/media/KbAufjmNmIzYNQVxDF/giphy.gif">
 </div>
 
