@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#Based-on">Based on</a>
 </p>
 
 Preview
@@ -19,6 +19,8 @@ Preview
 
 See on git.io
 --------
+##### Access the project directly from the web
+
 https://gabrielnatan.github.io/ToDOApp/
 
 
@@ -34,10 +36,14 @@ Tecnologias
 How To Use
 -----------
 
-
 ```
-or
+Access the project directly from the web
+
 https://gabrielnatan.github.io/ToDOApp/
+
+or use the code below in the CMD and clone the project
+
+$ git clone https://github.com/GabrielNatan/ToDOApp.git
 ```
 
 Based on Todo List App
