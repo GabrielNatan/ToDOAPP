@@ -1,7 +1,12 @@
 <img  src="img/ToDO_APP.png">
 
 
-#ToDO APP
+<img  src="https://media.giphy.com/media/KbAufjmNmIzYNQVxDF/giphy.gif">
+
+
+
+ToDO APP
+--------
 
 - HTML
 - CSS
