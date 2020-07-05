@@ -12,6 +12,15 @@ a:hover{
 	text-decoration: none;
 }
 
+ul.menu, form.form{
+	padding: 0;
+}
+
+
+form.form{
+	padding-left: 10px;
+}
+
 /*MODEL*/
 
 .models{
@@ -96,9 +105,7 @@ ul.menu li.active a{
 
 
 
-input{
-	margin-left: 15px;
-}
+
 
 
 
@@ -149,10 +156,7 @@ small, small a{
 	color:#1EB4F5;
 }
 
-form.col-7 input{
-	max-width: 255px;
-	margin-left: 15px;
-}
+
 footer, footer .container{
 	width: 100%;
 	display: flex;
